@@ -25,4 +25,4 @@ github_username:  elite-col
 
 # Build settings
 markdown: kramdown
-theme: minima
+theme: jekyll-theme-midnight
